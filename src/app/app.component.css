@@ -1,0 +1,20 @@
+.section {
+    padding-top: 0;
+}
+
+.app-header {
+    display: block;
+    width: 100%;
+}
+
+.app-header .title {
+    padding: 2rem;
+    background: #ffccc0;
+    text-align: center;
+}
+
+.app-body {
+    display: block;
+    width: 100%;
+
+}

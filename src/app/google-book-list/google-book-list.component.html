@@ -1,0 +1,8 @@
+<p>
+  google-book-list works!
+</p>
+<div class="columns">
+  <div class="column is-one-third" *ngFor="let book of books">
+      <app-google-book [Book]="book" ></app-google-book>
+  </div>
+</div>
